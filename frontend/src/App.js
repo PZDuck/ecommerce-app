@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
 import Home from "./pages/Home";
-import Header from "./components/nav/Header";
+import Header from "./components/Nav/Header";
 import RegisterComplete from "./pages/auth/RegisterComplete";
 import ForgotPassword from "./pages/auth/ForgotPassword";
 
